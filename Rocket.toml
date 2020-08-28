@@ -1,0 +1,2 @@
+[global.databases.unipayv10]
+url = "mysql://root:45261067@localhost/unipayv10"
